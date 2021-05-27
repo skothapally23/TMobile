@@ -5,6 +5,8 @@
     <classes>
       <class name="com.TMobile.customer.CreateCustomerTest"/>
       <class name="com.TMobile.customer.CreateProjectTest"/>
+      
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

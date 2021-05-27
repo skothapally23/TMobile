@@ -4,7 +4,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class CreateProjectTest {
-	
+	//Srvanti ok na talli
 	@Test
 	public void gun()
 	{
