@@ -33,11 +33,11 @@ public class MyListeners implements ITestListener{
 		Reporter.log(context.getName()+"Test Runner completed", true);
 	}
 
-
-	@Override
-	public void onTestSkipped(ITestResult result) {
-		Reporter.log(result.getName()+"Skipped", true);
-	}
+//
+//	@Override
+//	public void onTestSkipped(ITestResult result) {
+//		Reporter.log(result.getName()+"Skipped", true);
+//	}
 
 
 	@Override
